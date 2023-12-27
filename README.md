@@ -5,4 +5,5 @@ Issue escalation procedure help teams effectively manage and address problems th
 Level 1: basic issues that can be resolved by the team.
 Level 2: issue requiring attention from team leads or managers.
 Level 3: critical issue involving senior management or specialized teams.
-3. Assign responsibility - designate roles and responsibilities for each escalation level. 
+3. Assign responsibility - designate roles and responsibilities for each escalation level.
+4. i
